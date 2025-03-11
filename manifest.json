@@ -1,0 +1,10 @@
+{
+  "Name": "Happy Hunting",
+  "Author": "Liliet",
+  "Version": "1.0.0",
+  "Description": "Makes projectiles targeting monsters ignore terrain collision (you can now shoot through walls)",
+  "UniqueID": "Liliet.HappyHunting",
+  "UpdateKeys": [],
+  "EntryDll": "HappyHunting.dll",
+  "MinimumApiVersion": "4.0.0"
+}
